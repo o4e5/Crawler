@@ -9,7 +9,7 @@ pip install -r Packages.txt
 Install chrome
 ```
 
-## 업데이트 내역
+## Update Log
 
 * 0.2.1
     * Bug Fix : Data imbalance fix
@@ -23,7 +23,7 @@ Install chrome
 * 0.0.1
     * developing
 
-## 정보
+## About
 
 MIT It complies with the license, more information can be found at ``LICENSE``. 
 
