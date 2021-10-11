@@ -31,7 +31,7 @@ MIT It complies with the license, more information can be found at ``LICENSE``.
 
 ## How to contribute?
 
-1. (Fork this : <https://github.com/yourname/yourproject/fork>)
+1. (Fork this : <https://github.com/code0425/crawler/fork>)
 2. (`git checkout -b feature/fooBar`) 
 3. (`git commit -am 'Add some fooBar'`) 
 4. (`git push origin feature/fooBar`) 
